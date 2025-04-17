@@ -1,4 +1,4 @@
-## Hola! Es importante que tengas en cuenta lo siguiente:
+## Hola! Antes que cualquier descarga es importante que tengas en cuenta lo siguiente:
 Para que el archivo **verdeHojaCodigos.cht** sea reconocido en tu emulador es necesario que una vez descargado el archivo, lo renombres con el mismo nombre de tu ROM.
 
   *Ejemplo: Si tu ROM lleva por nombre "Pokemon_VerdeHoja.zip" el nombre del archivo de codigos tendra que ser **"Pokemon_VerdeHoja.cht"**.*
