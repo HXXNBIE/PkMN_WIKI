@@ -87,121 +87,100 @@
   <cheat type="cb" name="Leche Mu-Mu" enabled="false">
     <code>82025840 001D</code>
   </cheat>
-  <cheat type="cb" name="30 Polvoenergia" enabled="false">
+  <cheat type="cb" name="Polvoenergia" enabled="false">
     <code>82025840 001E</code>
   </cheat>
-  <cheat type="cb" name="31 Raiz Energia" enabled="false">
+  <cheat type="cb" name="Raiz Energia" enabled="false">
     <code>82025840 001F</code>
   </cheat>
-  <cheat type="cb" name="32 Polvo Curacion" enabled="false">
+  <cheat type="cb" name="Polvo Curacion" enabled="false">
     <code>82025840 0020</code>
   </cheat>
-  <cheat type="cb" name="33 Hierba Revitalizante" enabled="false">
+  <cheat type="cb" name="Hierba Revitalizante" enabled="false">
     <code>82025840 0021</code>
   </cheat>
-  <cheat type="cb" name="34 Eter" enabled="false">
+  <cheat type="cb" name="Eter" enabled="false">
     <code>82025840 0022</code>
   </cheat>
-  <cheat type="cb" name="35 Eter Max" enabled="false">
+  <cheat type="cb" name="Eter Max" enabled="false">
     <code>82025840 0023</code>
   </cheat>
-  <cheat type="cb" name="36 Elixir" enabled="false">
+  <cheat type="cb" name="Elixir" enabled="false">
     <code>82025840 0024</code>
   </cheat>
-  <cheat type="cb" name="37 Elixir Max" enabled="false">
+  <cheat type="cb" name="Elixir Max" enabled="false">
     <code>82025840 0025</code>
   </cheat>
-  <cheat type="cb" name="38 Galleta Lava" enabled="false">
+  <cheat type="cb" name="Galleta Lava" enabled="false">
     <code>82025840 0026</code>
   </cheat>
-  <cheat type="cb" name="39 Flauta Azul" enabled="false">
+  <cheat type="cb" name="Flauta Azul" enabled="false">
     <code>82025840 0027</code>
   </cheat>
-  <cheat type="cb" name="40 Flauta Amarilla" enabled="false">
+  <cheat type="cb" name="Flauta Amarilla" enabled="false">
     <code>82025840 0028</code>
   </cheat>
-  <cheat type="cb" name="41 Flauta Roja" enabled="false">
+  <cheat type="cb" name="Flauta Roja" enabled="false">
     <code>82025840 0029</code>
   </cheat>
-  <cheat type="cb" name="42 Flauta Negra" enabled="false">
+  <cheat type="cb" name="Flauta Negra" enabled="false">
     <code>82025840 002A</code>
   </cheat>
-  <cheat type="cb" name="43 Flauta Blanca" enabled="false">
+  <cheat type="cb" name="Flauta Blanca" enabled="false">
     <code>82025840 002B</code>
   </cheat>
-  <cheat type="cb" name="44 Zumo de Baya" enabled="false">
+  <cheat type="cb" name="Zumo de Baya" enabled="false">
     <code>82025840 002C</code>
   </cheat>
-  <cheat type="cb" name="45 Piedra Solar" enabled="false">
+  <cheat type="cb" name="Piedra Solar" enabled="false">
     <code>82025840 005D</code>
   </cheat>
-  <cheat type="cb" name="46 Piedra Lunar" enabled="false">
+  <cheat type="cb" name="Piedra Lunar" enabled="false">
     <code>82025840 005E</code>
   </cheat>
-  <cheat type="cb" name="47 Piedra Fuego" enabled="false">
+  <cheat type="cb" name="Piedra Fuego" enabled="false">
     <code>82025840 005F</code>
   </cheat>
-  <cheat type="cb" name="48 Piedra Piedra Trueno" enabled="false">
+  <cheat type="cb" name="Piedra Piedra Trueno" enabled="false">
     <code>82025840 0060</code>
   </cheat>
-  <cheat type="cb" name="49 Piedra Agua" enabled="false">
+  <cheat type="cb" name="Piedra Agua" enabled="false">
     <code>82025840 0061</code>
   </cheat>
-  <cheat type="cb" name="50 Piedra Hoja" enabled="false">
+  <cheat type="cb" name="Piedra Hoja" enabled="false">
     <code>82025840 0062</code>
   </cheat>
-  <cheat type="cb" name="51 Super Repelente" enabled="false">
+  <cheat type="cb" name="Super Repelente" enabled="false">
     <code>82025840 0053</code>
   </cheat>
-  <cheat type="cb" name="52 Max Repelente" enabled="false">
+  <cheat type="cb" name="Max Repelente" enabled="false">
     <code>82025840 0054</code>
   </cheat>
-  <cheat type="cb" name="53 Repelente" enabled="false">
+  <cheat type="cb" name="Repelente" enabled="false">
     <code>82025840 0056</code>
   </cheat>
-  <cheat type="cb" name="54 Ambar Viejo" enabled="false">
+  <cheat type="cb" name="Ambar Viejo" enabled="false">
     <code>82025840 0162</code>
   </cheat>
-  <cheat type="cb" name="55 Fosil Raiz" enabled="false">
+  <cheat type="cb" name="Fosil Raiz" enabled="false">
     <code>82025840 011E</code>
   </cheat>
-  <cheat type="cb" name="56 Fosil Garra" enabled="false">
+  <cheat type="cb" name="Fosil Garra" enabled="false">
     <code>82025840 011F</code>
   </cheat>
-  <cheat type="cb" name="57 Fosil Helix" enabled="false">
+  <cheat type="cb" name="Fosil Helix" enabled="false">
     <code>82025840 0165</code>
   </cheat>
-  <cheat type="cb" name="58 Fosil Domo" enabled="false">
+  <cheat type="cb" name="Fosil Domo" enabled="false">
     <code>82025840 0166</code>
   </cheat>
-  <cheat type="cb" name="59 Cuerda Huida" enabled="false">
+  <cheat type="cb" name="Cuerda Huida" enabled="false">
     <code>82025840 0055</code>
   </cheat>
-  <cheat type="gs3" name="60 Master Code Green Leaf">
-    <code>594F7021 3B4E81A7</code>
-  </cheat>
-  <cheat type="gs3" name="61 Master Code Fire Red" enabled="false">
-    <code>17543C48 E65E0B97</code>
-  </cheat>
-  <cheat type="gs3" name="62 Shinny" enabled="false">
-    <code>39584B19 D80CC66A</code>
-    <code>CE71B3D3 1F6A85FB</code>
-    <code>198DF179 5413C867</code>
-    <code>73ECB8A0 BDD8B251</code>
-    <code>D5AFFB37 6855972C</code>
-    <code>73ECB8A0 BDD8B251</code>
-  </cheat>
-  <cheat type="cb" name="63 Infinite Xp" enabled="false">
+  <cheat type="cb" name="Exp Infinita" enabled="false">
     <code>82023D50 4E20</code>
   </cheat>
-  <cheat type="cb" name="64 Max PP" enabled="false">
+  <cheat type="cb" name="Max PP" enabled="false">
     <code>82025840 0047</code>
-  </cheat>
-  <cheat type="cb" name="65 Mas PS" enabled="false">
-    <code>82025840 003F</code>
-  </cheat>
-  <cheat type="cb" name="Capture" enabled="false">
-    <code>C2711CBA 6F6B</code>
-    <code>72EA7742 0E4D</code>
   </cheat>
 </cheats>
