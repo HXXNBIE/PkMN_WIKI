@@ -1,5 +1,59 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <cheats>
+<!-- 
+  IMPORTANTE: Los codigos solo funcionan en la version en español de la ROM "Pokemon Verde Hoja".
+  La mayoria de los codigos en este archivo son del tipo cb (codebreaker), todos funcionan sin excepcion,
+  aunque cabe resaltar que nunca esta de mas la probabilidad de corromper tu save data sino se hace uso
+  correcto de los codigos. Ej:
+
+    - Activar mas de dos trucos al mismo tiempo
+    - Abusar de los codigos action replay
+    - No desactivar el codigo antes de continuar la partida, por ejemplo, el codigo "Exp Infinita" suele
+      dar error en algunas ocasiones llegando a formatear el nivel de tu pokemon y congelar la partida.
+      Recuerda que el nivel maximo es 99 y en caso de querer las evoluciones; tienes que desactivar el codigo
+      en el nivel exacto para que la evolucion fluya como corresponde.
+    - Los codigos que ofrecen objetos ilimitados solo se activan hasta lograr que el numero en la PC cambie,
+      una vez haya sucedido, se desactiva el codigo. De lo contrario habra multiples objetos en la PC con el
+      mismo nombre, y aunque esto no genere mas que un problema estetico lo mejor es evitarlo.
+    - Los codigos que ofrecen las piedras de evolucion son con los que mas se dificulta lograr que el numero
+      se vuelva infinito en la PC. No te preocupes, basta probar con activar y desactivar el truco hasta lograr
+      cambiar el numero.
+
+  Sin mas, agradezco que hagas uso de este repositorio. Si tienes alguna recomendacion o deseas que se agregue mas
+  contenido hazmelo saber (:
+
+  Fuentes y/o creditos: https://www.centropkmn.com/seccion/trucos/trucos-pokemon-rojofuego-verdehoja/
+-->
+
+<!-- MTS Maquinas Tecnicas-->
+  <cheat type="cb" name="MT01 Puño Certero" enabled="false">
+    <code>82025840 0121</code>
+  </cheat>
+  <cheat type="cb" name="MT02 Garra Dragon" enabled="false">
+    <code>82025840 0122</code>
+  </cheat>
+  <cheat type="cb" name="MT03 Hidro Pulso" enabled="false">
+    <code>82025840 01223</code>
+  </cheat>
+  <cheat type="cb" name="MT04 Paz Mental" enabled="false">
+    <code>82025840 0124</code>
+  </cheat>
+  <cheat type="cb" name="MT05 Rugido" enabled="false">
+    <code>82025840 0125</code>
+  </cheat>
+  <cheat type="cb" name="MT06 Toxico" enabled="false">
+    <code>82025840 0126</code>
+  </cheat>
+  <cheat type="cb" name="MT07 Granizo" enabled="">
+    <code>82025840 0127</code>
+  </cheat>
+  <cheat type="cb" name="MT08 Corpulencia" enabled="">
+    <code>82025840 0128</code>
+  </cheat>
+  <cheat type="cb" name="MT09 Recurrente" enabled="">
+    <code>82025840 0129</code>
+  </cheat>
+<!-- Pokeballs -->
   <cheat type="cb" name="Master Ball" enabled="false">
     <code>82025840 0001</code>
   </cheat>
@@ -36,6 +90,7 @@
   <cheat type="cb" name="Honor Ball" enabled="false">
     <code>82025840 000C</code>
   </cheat>
+<!-- Objetos de Salud y Estado -->
   <cheat type="cb" name="Pocion" enabled="false">
     <code>82025840 000D</code>
   </cheat>
