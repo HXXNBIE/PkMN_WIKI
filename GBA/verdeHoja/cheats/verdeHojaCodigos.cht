@@ -22,7 +22,10 @@
   Sin mas, agradezco que hagas uso de este repositorio. Si tienes alguna recomendacion o deseas que se agregue mas
   contenido hazmelo saber (:
 
-  Fuentes y/o creditos: https://www.centropkmn.com/seccion/trucos/trucos-pokemon-rojofuego-verdehoja/
+  Fuentes y/o creditos:
+    - https://www.centropkmn.com/seccion/trucos/trucos-pokemon-rojofuego-verdehoja/
+    - https://es.ccm.net/gaming/juegos/833-trucos-para-pokemon-rojo-fuego/
+    - https://hablamosdegamers.com/codigos/trucos-y-codigos-para-pokemon-rojo-fuego/
 -->
 
 <!-- MTS Maquinas Tecnicas-->
@@ -176,18 +179,40 @@
   <cheat type="cb" name="MT50 Sofoco" enabled="false">
     <code>82025840 0152</code>
   </cheat>
-<!-- Pokeballs -->
-  <cheat type="cb" name="Master Ball" enabled="false">
-    <code>82025840 0001</code>
+<!-- MOS Maquinas Ocultas -->
+  <cheat type="cb" name="MO01 Corte" enabled="false">
+    <code>82025840 0153</code>
   </cheat>
+  <cheat type="cb" name="MO02 Vuelo" enabled="false">
+    <code>82025840 0154</code>
+  </cheat>
+  <cheat type="cb" name="MO03 Surf" enabled="false">
+    <code>82025840 0155</code>
+  </cheat>
+  <cheat type="cb" name="MO04 Fuerza" enabled="false">
+    <code>82025840 0156</code>
+  </cheat>
+  <cheat type="cb" name="MO05 Destello" enabled="false">
+    <code>82025840 0157</code>
+  </cheat>
+  <cheat type="cb" name="MO06 Golpe Roca" enabled="false">
+    <code>82025840 0158</code>
+  </cheat>
+  <cheat type="cb" name="MO07 Cascada" enabled="false">
+    <code>82025840 0159</code>
+  </cheat>
+  <cheat type="cb" name="MO08 Buceo" enabled="false">
+    <code>82025840 015A</code>
+  </cheat>
+<!-- Pokeballs -->
   <cheat type="cb" name="Ultra Ball" enabled="false">
     <code>82025840 0002</code>
   </cheat>
-  <cheat type="cb" name="Super Ball" enabled="false">
-    <code>82025840 0003</code>
-  </cheat>
   <cheat type="cb" name="Poke Ball" enabled="false">
     <code>82025840 0004</code>
+  </cheat>
+  <cheat type="cb" name="Super Ball" enabled="false">
+    <code>82025840 0003</code>
   </cheat>
   <cheat type="cb" name="Safari Ball" enabled="false">
     <code>82025840 0005</code>
@@ -195,14 +220,14 @@
   <cheat type="cb" name="Malla Ball" enabled="false">
     <code>82025840 0006</code>
   </cheat>
+  <cheat type="cb" name="Acopio Ball" enabled="false">
+    <code>82025840 0009</code>
+  </cheat>
   <cheat type="cb" name="Buceo Ball" enabled="false">
     <code>82025840 0007</code>
   </cheat>
   <cheat type="cb" name="Nido Ball" enabled="false">
     <code>82025840 0008</code>
-  </cheat>
-  <cheat type="cb" name="Acopio Ball" enabled="false">
-    <code>82025840 0009</code>
   </cheat>
   <cheat type="cb" name="Turno Ball" enabled="false">
     <code>82025840 000A</code>
@@ -213,7 +238,10 @@
   <cheat type="cb" name="Honor Ball" enabled="false">
     <code>82025840 000C</code>
   </cheat>
-<!-- Objetos de Salud y Estado -->
+  <cheat type="cb" name="Master Ball" enabled="false">
+    <code>82025840 0001</code>
+  </cheat>
+<!-- Objetos de Curativos y de Estado -->
   <cheat type="cb" name="Pocion" enabled="false">
     <code>82025840 000D</code>
   </cheat>
@@ -309,6 +337,56 @@
   </cheat>
   <cheat type="cb" name="Zumo de Baya" enabled="false">
     <code>82025840 002C</code>
+<!-- Modificadores de Estadisticas -->
+  <cheat type="cb" name="Mas PS" enabled="false">
+    <code>82025840 003F</code>
+  </cheat>
+  <cheat type="cb" name="Proteina" enabled="false">
+    <code>82025840 0040</code>
+  </cheat>
+  <cheat type="cb" name="Hierro" enabled="false">
+    <code>82025840 0041</code>
+  </cheat>
+  <cheat type="cb" name="Carburante" enabled="false">
+    <code>82025840 0042</code>
+  </cheat>
+  <cheat type="cb" name="Calcio" enabled="false">
+    <code>82025840 0043</code>
+  </cheat>
+  <cheat type="cb" name="Mas PP" enabled="false">
+    <code>82025840 0045</code>
+  </cheat>
+  <cheat type="cb" name="Zinc" enabled="false">
+    <code>82025840 0046</code>
+  </cheat>
+  <cheat type="cb" name="Max PP" enabled="false">
+    <code>82025840 0047</code>
+  </cheat>
+  <cheat type="cb" name="Unknown" enabled="false">
+    <code>82025840 0048</code>
+  </cheat>
+  <cheat type="cb" name="Protec. Esp." enabled="false">
+    <code>82025840 0049</code>
+  </cheat>
+  <cheat type="cb" name="Directo" enabled="false">
+    <code>82025840 004A</code>
+  </cheat>
+  <cheat type="cb" name="Ataque X" enabled="false">
+    <code>82025840 004B</code>
+  </cheat>
+  <cheat type="cb" name="Defensa X" enabled="false">
+    <code>82025840 004C</code>
+  </cheat>
+  <cheat type="cb" name="Velocidad X" enabled="false">
+    <code>82025840 004D</code>
+  </cheat>
+  <cheat type="cb" name="Precision X" enabled="false">
+    <code>82025840 004E</code>
+  </cheat>
+  <cheat type="cb" name="Especial X" enabled="false">
+    <code>82025840 004F</code>
+  </cheat>
+<!-- Piedras Evolutivas -->
   </cheat>
   <cheat type="cb" name="Piedra Solar" enabled="false">
     <code>82025840 005D</code>
@@ -328,6 +406,7 @@
   <cheat type="cb" name="Piedra Hoja" enabled="false">
     <code>82025840 0062</code>
   </cheat>
+<!-- Repelentes -->
   <cheat type="cb" name="Super Repelente" enabled="false">
     <code>82025840 0053</code>
   </cheat>
@@ -337,6 +416,7 @@
   <cheat type="cb" name="Repelente" enabled="false">
     <code>82025840 0056</code>
   </cheat>
+<!-- Fosiles -->
   <cheat type="cb" name="Ambar Viejo" enabled="false">
     <code>82025840 0162</code>
   </cheat>
@@ -352,13 +432,253 @@
   <cheat type="cb" name="Fosil Domo" enabled="false">
     <code>82025840 0166</code>
   </cheat>
+<!-- Bayas -->
+  <cheat type="cb" name="Baya Zreza" enabled="false">
+    <code>82025840 0085</code>
+  </cheat>
+  <cheat type="cb" name="Baya Atania" enabled="false">
+    <code>82025840 0086</code>
+  </cheat>
+  <cheat type="cb" name="Baya Meloc" enabled="false">
+    <code>82025840 0087</code>
+  </cheat>
+  <cheat type="cb" name="Baya Safre" enabled="false">
+    <code>82025840 0088</code>
+  </cheat>
+  <cheat type="cb" name="Baya Perasi" enabled="false">
+    <code>82025840 0089</code>
+  </cheat>
+  <cheat type="cb" name="Baya Zanama" enabled="false">
+    <code>82025840 008A</code>
+  </cheat>
+  <cheat type="cb" name="Baya Aranja" enabled="false">
+    <code>82025840 008B</code>
+  </cheat>
+  <cheat type="cb" name="Baya Caquic" enabled="false">
+    <code>82025840 008C</code>
+  </cheat>
+  <cheat type="cb" name="Baya Ziuuela" enabled="false">
+    <code>82025840 008D</code>
+  </cheat>
+  <cheat type="cb" name="Baya Zidra" enabled="false">
+    <code>82025840 008E</code>
+  </cheat>
+  <cheat type="cb" name="Baya Higog" enabled="false">
+    <code>82025840 008F</code>
+  </cheat>
+  <cheat type="cb" name="Baya Wiki" enabled="false">
+    <code>82025840 0090</code>
+  </cheat>
+  <cheat type="cb" name="Baya Ango" enabled="false">
+    <code>82025840 0091</code>
+  </cheat>
+  <cheat type="cb" name="Baya Guaya" enabled="false">
+    <code>82025840 0092</code>
+  </cheat>
+  <cheat type="cb" name="Baya Pabaya" enabled="false">
+    <code>82025840 0093</code>
+  </cheat>
+  <cheat type="cb" name="Baya Frambu" enabled="false">
+    <code>82025840 0094</code>
+  </cheat>
+  <cheat type="cb" name="Baya Oram" enabled="false">
+    <code>82025840 0095</code>
+  </cheat>
+  <cheat type="cb" name="Baya Lantano" enabled="false">
+    <code>82025840 0096</code>
+  </cheat>
+  <cheat type="cb" name="Baya Preagu" enabled="false">
+    <code>82025840 0097</code>
+  </cheat>
+  <cheat type="cb" name="Baya Pinia" enabled="false">
+    <code>82025840 0098</code>
+  </cheat>
+  <cheat type="cb" name="Baya Grana" enabled="false">
+    <code>82025840 0099</code>
+  </cheat>
+  <cheat type="cb" name="Baya ALgama" enabled="false">
+    <code>82025840 009A</code>
+  </cheat>
+  <cheat type="cb" name="Baya Ispero" enabled="false">
+    <code>82025840 009B</code>
+  </cheat>
+  <cheat type="cb" name="Baya Meluce" enabled="false">
+    <code>82025840 009C</code>
+  </cheat>
+  <cheat type="cb" name="Baya Uvav" enabled="false">
+    <code>82025840 009D</code>
+  </cheat>
+  <cheat type="cb" name="Baya Tamate" enabled="false">
+    <code>82025840 009E</code>
+  </cheat>
+  <cheat type="cb" name="Baya Mais" enabled="false">
+    <code>82025840 009F</code>
+  </cheat>
+  <cheat type="cb" name="Baya Aostan" enabled="false">
+    <code>82025840 00A0</code>
+  </cheat>
+  <cheat type="cb" name="Baya Rautan" enabled="false">
+    <code>82025840 00A1</code>
+  </cheat>
+  <cheat type="cb" name="Baya Monli" enabled="false">
+    <code>82025840 00A2</code>
+  </cheat>
+  <cheat type="cb" name="Baya Wikano" enabled="false">
+    <code>82025840 00A3</code>
+  </cheat>
+  <cheat type="cb" name="Baya Plama" enabled="false">
+    <code>82025840 00A4</code>
+  </cheat>
+  <cheat type="cb" name="Baya Sambia" enabled="false">
+    <code>82025840 00A5</code>
+  </cheat>
+  <cheat type="cb" name="Baya Rudion" enabled="false">
+    <code>82025840 00A6</code>
+  </cheat>
+  <cheat type="cb" name="Baya Andano" enabled="false">
+    <code>82025840 00A7</code>
+  </cheat>
+  <cheat type="cb" name="Baya Lichi" enabled="false">
+    <code>82025840 00A8</code>
+  </cheat>
+  <cheat type="cb" name="Baya Gonlan" enabled="false">
+    <code>82025840 00A9</code>
+  </cheat>
+  <cheat type="cb" name="Baya Aslac" enabled="false">
+    <code>82025840 00AA</code>
+  </cheat>
+  <cheat type="cb" name="Baya Yapati" enabled="false">
+    <code>82025840 00AB</code>
+  </cheat>
+  <cheat type="cb" name="Baya Aricoc" enabled="false">
+    <code>82025840 00AC</code>
+  </cheat>
+  <cheat type="cb" name="Baya Zonlan" enabled="false">
+    <code>82025840 00AD</code>
+  </cheat>
+  <cheat type="cb" name="Baya Arabol" enabled="false">
+    <code>82025840 00AE</code>
+  </cheat>
+  <cheat type="cb" name="Baya Enigma" enabled="false">
+    <code>82025840 00AF</code>
+  </cheat>
+<!-- Objetos Clave -->
+  <cheat type="cb" name="" enabled="false">
+    <code></code>
+  </cheat>
+<!-- Miscellaneous Items -->
   <cheat type="cb" name="Cuerda Huida" enabled="false">
     <code>82025840 0055</code>
   </cheat>
   <cheat type="cb" name="Exp Infinita" enabled="false">
     <code>82023D50 4E20</code>
   </cheat>
-  <cheat type="cb" name="Max PP" enabled="false">
-    <code>82025840 0047</code>
+<!--
+  Los siguientes codigos son una alternativa para conseguir dinero de forma rapida sin afectar a la tarjeta del jugador, solo hace
+  falta vender (en cualquier tienda), la cantidad de items necesarios hasta conseguir la cantidad de dinero deseada.
+-->
+  <cheat type="cb" name="Pepita" enabled="false">
+    <code>82025840 006E</code>
+  </cheat>
+  <cheat type="cb" name="Perla Grande" enabled="false">
+    <code>82025840 006B</code>
+  </cheat>
+  <cheat type="cb" name="Polvo Estelar" enabled="false">
+    <code>82025840 006C</code>
+  </cheat>
+  <cheat type="cb" name="Trozo Estrella" enabled="false">
+    <code>82025840 006D</code>
   </cheat>
 </cheats>
+
+<!-- 
+  Algunos codigosque provocan omitir la historia principal del juego o modificarlo de forma agresiva se han omitido en este
+  archivo por cuestiones personales. Los codigos disponibles pero que han sido omitidos para la version Verde Hoja en este
+  archivo son los siguientes:
+
+    - 420259D8 0001: All PokeBalls (MCode:420259D80001 - 0001000C0004 - 420259DA5212 - 0000000C0004 )
+    - 82025840 0044: Rare Candy (MCode:8300500061A1)
+    - 82025840 015D: Correo Oak
+    - 82025840 015E: Pokéflauta
+    - 82025840 015F: Llave Secreta
+    - 82025840 0160: Bono Bici
+    - 82025840 0161: Dientes Oro
+    - 82025840 0162: Ámbar Viejo
+    - 82025840 0163: Llave Magnética
+    - 82025840 0164: Llave Ascensor
+    - 82025840 0165: Fósil Helix
+    - 82025840 0166: Fósil Domo
+    - 82025840 0167: Scope Silph
+    - 82025840 0168: Bicicleta
+    - 82025840 0169: Mapa
+    - 82025840 016A: Buscapelea
+    - 82025840 016B: Memorín
+    - 82025840 016C: Tubo MT-MO
+    - 82025840 016D: Saco Bayas
+    - 82025840 016E: Poké Tele
+    - 82025840 016F: Tri-Ticket
+    - 82025840 0170: Iris-Ticket
+    - 82025840 0171: Té
+    - 82025840 0172: Misti-Ticket
+    - 82025840 0173: Ori-Ticket
+    - 82025840 0174: Bote Polvos
+    - 82025840 0175: Rubí
+    - 82025840 0176: Zafiro
+    - 38A014382724: evolucionar primer Pokémon al máximo nivel.
+    - 3FF453949219: evolucionar primer Pokémon al máximo nivel.
+    - A019AC6DB640: evolucionar segundo Pokémon al máximo nivel.
+    - 3FF453949219: evolucionar segundo Pokémon al máximo nivel.
+    - 25345D549618: evolucionar tercer Pokémon al máximo nivel.
+    - 3FF453949219: evolucionar tercer Pokémon al máximo nivel.
+    - AD6DCD41177E: evolucionar cuarto Pokémon al máximo nivel.
+    - 3FF453949219: evolucionar cuarto Pokémon al máximo nivel.
+    - BCDD240C0612: evolucionar quinto Pokémon al máximo nivel.
+    - 3FF453949219: evolucionar quinto Pokémon al máximo nivel.
+    - 3CE494190776: evolucionar sexto Pokémon al máximo nivel.
+    - 3FF453949219: evolucionar sexto Pokémon al máximo nivel.
+    - efce867d: todas las medallas.
+    - 5403d40d: todas las medallas.
+    - 82031DBC XXXX: cambia XXXX por el código sugerido.
+    - 0001: Bosque Verde.
+    - 0002: Roca Ombligo (Ho-Oh y Lugia).
+    - 0003: Paleta (casa rival).
+    - 0004: Paleta (casa).
+    - 0005: Ciudad verde.
+    - 0006: Museo (ciudad plateada).
+    - 0007: Celeste.
+    - 0008: Lavanda (Centro Pokémon).
+    - 0009: Carmín.
+    - 000A: Lavanda (Centro Comercial).
+    - 000B: Safari.
+    - 000C: Gimnasio de Isla Canela.
+    - 000D: Liga Pokémon.
+    - 000E: Azafrán.
+    - 000F: Ruta 2 (salida de Bosque Verde hacia Ciudad Verde).
+    - 0010: Mt. Moon.
+    - 0011: Ruta 5 (guardería).
+    - 0012: entrada a Azafrán desde Ciudad Verde.
+    - 0013: entrada a Azafrán desde Ruta 7.
+    - 0014: entrada a Azafrán desde Ruta 8.
+    - 0015: Ruta 10.
+    - 0016: Ruta 11.
+    - 0017: Ruta 12.
+    - 0018: Ruta 15.
+    - 0019: Ruta 16 (MO2 /vuelo ).
+    - 001a: Ruta 18.
+    - 001b: Ruta 19 (peligro).
+    - 001C: para enseñar la Medalla Roca.
+    - 001D: Ruta 19 (peligro).
+    - 001E: casa de Bill.
+    - 001F: Isla Séptima.
+    - 0020: primera vez que se va a la Isla Prima.
+    - 0021: casa de Pedrita (cuando su padre pregunta por ella).
+    - 0022: Isla Tera.
+    - 0023: Guardería.
+    - 0024: Isla Inta.
+    - 0025: Isla Exta (el rival aparece).
+    - 0026: Puerto isla Tera.
+    - 0027: Lugar de Recreo.
+    - 0028: Cabo Extremo.
+    - 0029: Vía Acuática.
+    - 002a: Cañón Setano (se consigue Puño Suerte).
+-->
