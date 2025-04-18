@@ -577,4 +577,45 @@
   </cheat>
 <!--
   Los siguientes codigos son una alternativa para conseguir dinero de forma rapida sin afectar a la tarjeta del jugador, solo hace
-  falta vender (en cualquier tienda), la cantidad de
+  falta vender (en cualquier tienda), la cantidad de items necesarios hasta conseguir la cantidad de dinero deseada.
+-->
+  <cheat type="cb" name="Pepita" enabled="false">
+    <code>82025840 006E</code>
+  </cheat>
+  <cheat type="cb" name="Perla Grande" enabled="false">
+    <code>82025840 006B</code>
+  </cheat>
+  <cheat type="cb" name="Polvo Estelar" enabled="false">
+    <code>82025840 006C</code>
+  </cheat>
+  <cheat type="cb" name="Trozo Estrella" enabled="false">
+    <code>82025840 006D</code>
+  </cheat>
+<!-- Master Code for the code that is used for encounters with pokemons -->
+  <cheat type="gs3" name="Master Code Green Leaf" enabled="false">
+    <code>594F7021 3B4E81A7</code>
+  </cheat>
+<!--
+  You need to pair the master code with the code of the Pokémon you want to
+  catch. You can find this Pokémon code in the game's repository database.
+  Example:
+  594F7021 3B4E81A7 : Master code
+  AD86124F 2823D8DA : Code of Pokemon (In this case Bulbasaur)
+  
+  Two lines of code are stored in the same code
+-->
+<!--
+  This code is not recommended even if it works, because once the
+  Pokémon is caught, the data in our Pokédex will assign it an
+  incorrect ID, like #0000
+-->
+<!-- Encounter with shinny -->
+  <cheat type="gs3" name="Shinny" enabled="false">
+    <code>39584B19 D80CC66A</code>
+    <code>CE71B3D3 1F6A85FB</code>
+    <code>198DF179 5413C867</code>
+    <code>73ECB8A0 BDD8B251</code>
+    <code>D5AFFB37 6855972C</code>
+    <code>73ECB8A0 BDD8B251</code>
+  </cheat>
+</cheats>
