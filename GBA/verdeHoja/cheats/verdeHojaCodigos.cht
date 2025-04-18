@@ -47,13 +47,13 @@
   <cheat type="cb" name="MT06 Toxico" enabled="false">
     <code>82025840 0126</code>
   </cheat>
-  <cheat type="cb" name="MT07 Granizo" enabled="">
+  <cheat type="cb" name="MT07 Granizo" enabled="false">
     <code>82025840 0127</code>
   </cheat>
-  <cheat type="cb" name="MT08 Corpulencia" enabled="">
+  <cheat type="cb" name="MT08 Corpulencia" enabled="false">
     <code>82025840 0128</code>
   </cheat>
-  <cheat type="cb" name="MT09 Recurrente" enabled="">
+  <cheat type="cb" name="MT09 Recurrente" enabled="false">
     <code>82025840 0129</code>
   </cheat>
   <cheat type="cb" name="MT10 Poder Oculto" enabled="false">
