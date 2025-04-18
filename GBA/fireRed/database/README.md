@@ -1,0 +1,1 @@
+## Hi! Here you'll find the codes corresponding to each first-generation Pokémon ✨
