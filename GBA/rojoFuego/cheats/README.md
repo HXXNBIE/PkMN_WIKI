@@ -4,3 +4,5 @@ Para que el archivo **RojoFuegoCodigos.cht** sea reconocido en tu emulador es ne
 *Ejemplo: Si tu ROM lleva por nombre "Pokemon_RojoFuego.zip" el nombre del archivo de codigos tendra que ser **"Pokemon_RojoFuego.cht"**.*
 
 En conclusion, al final tendrias que tener dos archivos con el mismo nombre, pero *con la unica diferencia en la extension del archivo (**Name.zip = Name.cht**)*
+
+<sub>Last Review Fri Apr 18 10:10:27 CST 2025</sub>
