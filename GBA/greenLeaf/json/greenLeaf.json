@@ -1,0 +1,452 @@
+[
+    {
+        "CODE": "AD86124F 2823D8DA",
+        "GEN": 1,
+        "NAME": "BULBASAUR",
+        "PK_ID": 1,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "AB84463B B2609644",
+        "GEN": 1,
+        "NAME": "IVYSAUR",
+        "PK_ID": 2,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "3542F0A7 7D2E171F",
+        "GEN": 1,
+        "NAME": "VENUSAUR",
+        "PK_ID": 3,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "DB8C60CD 81FD6AA7",
+        "GEN": 1,
+        "NAME": "CHARMANDER",
+        "PK_ID": 4,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "08506D61 55CBD9A8",
+        "GEN": 1,
+        "NAME": "CHARMELEON",
+        "PK_ID": 5,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "A56395D2 8AF46857",
+        "GEN": 1,
+        "NAME": "CHARIZARD",
+        "PK_ID": 6,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "BCDCB406 2F2FD763",
+        "GEN": 1,
+        "NAME": "SQUIRTLE",
+        "PK_ID": 7,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "268349C8 63FF53CE",
+        "GEN": 1,
+        "NAME": "WARTORTLE",
+        "PK_ID": 8,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "5FD24ABC 1FE3296A",
+        "GEN": 1,
+        "NAME": "BLASTOISE",
+        "PK_ID": 9,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "358CC2BF 9BFA3518",
+        "GEN": 1,
+        "NAME": "CATERPIE",
+        "PK_ID": 10,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "DC725D4E 3A20792F",
+        "GEN": 1,
+        "NAME": "METAPOD",
+        "PK_ID": 11,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "33EFFB7C E1794F5B",
+        "GEN": 1,
+        "NAME": "BUTTERFREE",
+        "PK_ID": 12,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "9A86D92A 635F8DBC",
+        "GEN": 1,
+        "NAME": "WEEDLE",
+        "PK_ID": 13,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "CCEC9F6E 5A2A0F12",
+        "GEN": 1,
+        "NAME": "KAKUNA",
+        "PK_ID": 14,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "F3D99280 49F4EEDC",
+        "GEN": 1,
+        "NAME": "BEEDRILL",
+        "PK_ID": 15,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "139BBA32 2DC356C8",
+        "GEN": 1,
+        "NAME": "PIDGEY",
+        "PK_ID": 16,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "2F7B0F2F 257173EA",
+        "GEN": 1,
+        "NAME": "PIDGEOTTO",
+        "PK_ID": 17,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "13659B39 95BD80E5",
+        "GEN": 1,
+        "NAME": "PIDGEOT",
+        "PK_ID": 18,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "E5C49E22 47B157F2",
+        "GEN": 1,
+        "NAME": "RATTATA",
+        "PK_ID": 19,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "60C9DC15 1AD9B226",
+        "GEN": 1,
+        "NAME": "RATICATE",
+        "PK_ID": 20,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "2F5D7856 A5F7B4AE",
+        "GEN": 1,
+        "NAME": "SPEAROW",
+        "PK_ID": 21,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "23689847 DA918B8D",
+        "GEN": 1,
+        "NAME": "FEAROW",
+        "PK_ID": 22,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "A5BA4CFA CA5D771C",
+        "GEN": 1,
+        "NAME": "EKANS",
+        "PK_ID": 23,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "B75D69F0 7C3B3103",
+        "GEN": 1,
+        "NAME": "ARBOK",
+        "PK_ID": 24,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "9D4A1BFF 05120D39",
+        "GEN": 1,
+        "NAME": "PIKACHU",
+        "PK_ID": 25,
+        "REGION": "KANTO",
+        "TYPE_A": "ELECTRIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "CE7B779B AE493550",
+        "GEN": 1,
+        "NAME": "RAICHU",
+        "PK_ID": 26,
+        "REGION": "KANTO",
+        "TYPE_A": "ELECTRIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "7DFC4CBD 20BB83B6",
+        "GEN": 1,
+        "NAME": "SANDSHREW",
+        "PK_ID": 27,
+        "REGION": "KANTO",
+        "TYPE_A": "GROUND",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "CFC711B9 0585971F",
+        "GEN": 1,
+        "NAME": "SANDSLASH",
+        "PK_ID": 28,
+        "REGION": "KANTO",
+        "TYPE_A": "GROUND",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "B6450111 C65005BC",
+        "GEN": 1,
+        "NAME": "NIDORAN (F)",
+        "PK_ID": 29,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "0BA329E0 CEB39484",
+        "GEN": 1,
+        "NAME": "NIDORIAN",
+        "PK_ID": 30,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "C3B010F5 6DB0ED0E",
+        "GEN": 1,
+        "NAME": "NIDOQUEEN",
+        "PK_ID": 31,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": "GROUND"
+    },
+    {
+        "CODE": "A38262A2 825F8CF0",
+        "GEN": 1,
+        "NAME": "NIDORAN (M)",
+        "PK_ID": 32,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "33D5E08A 037AB9C4",
+        "GEN": 1,
+        "NAME": "NIDORINO",
+        "PK_ID": 33,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "82E3DD4B EBFEF864",
+        "GEN": 1,
+        "NAME": "NIDOKING",
+        "PK_ID": 34,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": "GROUND"
+    },
+    {
+        "CODE": "E8EAB84F 26C8AB6B",
+        "GEN": 1,
+        "NAME": "CLEFAIRY",
+        "PK_ID": 35,
+        "REGION": "KANTO",
+        "TYPE_A": "FAIRY",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "D15755D8 AF5BE6F1",
+        "GEN": 1,
+        "NAME": "CLEFABLE",
+        "PK_ID": 36,
+        "REGION": "KANTO",
+        "TYPE_A": "FAIRY",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "276AF592 A3A635CC",
+        "GEN": 1,
+        "NAME": "VULPIX",
+        "PK_ID": 37,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "27B815E0 B8CCC2DA",
+        "GEN": 1,
+        "NAME": "NINETALES",
+        "PK_ID": 38,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "B18AC7E0 E667A184",
+        "GEN": 1,
+        "NAME": "JIGGLYPUFF",
+        "PK_ID": 39,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FAIRY"
+    },
+    {
+        "CODE": "7CEDC4CF F95C5521",
+        "GEN": 1,
+        "NAME": "WIGGLYPUFF",
+        "PK_ID": 40,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FAIRY"
+    },
+    {
+        "CODE": "47596727 51BB292A",
+        "GEN": 1,
+        "NAME": "ZUBAT",
+        "PK_ID": 41,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "FF3A0DD1 DF54EB13",
+        "GEN": 1,
+        "NAME": "GOLBAT",
+        "PK_ID": 42,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "EF723724 F31E5F64",
+        "GEN": 1,
+        "NAME": "ODDISH",
+        "PK_ID": 43,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "A386B043 9DEB5064",
+        "GEN": 1,
+        "NAME": "GLOOM",
+        "PK_ID": 44,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "4A2748A4 F888F1C9",
+        "GEN": 1,
+        "NAME": "VILEPLUME",
+        "PK_ID": 45,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "EAD30258 3988D84F",
+        "GEN": 1,
+        "NAME": "PARAS",
+        "PK_ID": 46,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "GRASS"
+    },
+    {
+        "CODE": "74CFC9E9 82CD278E",
+        "GEN": 1,
+        "NAME": "PARASECT",
+        "PK_ID": 47,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "GRASS"
+    },
+    {
+        "CODE": "0CC56D24 C9F5A33A",
+        "GEN": 1,
+        "NAME": "VENONAT",
+        "PK_ID": 48,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "DFDFFF0A 8919BB28",
+        "GEN": 1,
+        "NAME": "VENOMOTH",
+        "PK_ID": 49,
+        "REGION": "KANTO",
+        "TYPE_A": "BUG",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "BA7199EC 664F9418",
+        "GEN": 1,
+        "NAME": "DIGLETT",
+        "PK_ID": 50,
+        "REGION": "KANTO",
+        "TYPE_A": "GROUND",
+        "TYPE_B": null
+    }
+]
