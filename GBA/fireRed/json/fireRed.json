@@ -448,5 +448,545 @@
         "REGION": "KANTO",
         "TYPE_A": "GROUND",
         "TYPE_B": null
+    },
+    {
+        "CODE": "BCC0FB44 1A047D3C",
+        "GEN": 1,
+        "NAME": "DUGTRIO",
+        "PK_ID": 51,
+        "REGION": "KANTO",
+        "TYPE_A": "GROUND",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "5F38FD3F 5D7412A3",
+        "GEN": 1,
+        "NAME": "MEOWTH",
+        "PK_ID": 52,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "0BEC25D3 787468AE",
+        "GEN": 1,
+        "NAME": "PERSIAN",
+        "PK_ID": 53,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "70CEC019 12F0A7B0",
+        "GEN": 1,
+        "NAME": "PSYDUCK",
+        "PK_ID": 54,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "32E8BC37 7712CF08",
+        "GEN": 1,
+        "NAME": "GOLDUCK",
+        "PK_ID": 55,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "DAAB0C35 55611812",
+        "GEN": 1,
+        "NAME": "MANKEY",
+        "PK_ID": 56,
+        "REGION": "KANTO",
+        "TYPE_A": "FIGHTING",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "B82FBCB6 C954F4ED",
+        "GEN": 1,
+        "NAME": "PRIMEAPE",
+        "PK_ID": 57,
+        "REGION": "KANTO",
+        "TYPE_A": "FIGHTING",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "CD7047AB 42D861F2",
+        "GEN": 1,
+        "NAME": "GROWLITHE",
+        "PK_ID": 58,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "3099D33C 49E66A04",
+        "GEN": 1,
+        "NAME": "ARCANINE",
+        "PK_ID": 59,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "AF0908F3 650FE1BD",
+        "GEN": 1,
+        "NAME": "POLIWAG",
+        "PK_ID": 60,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "C29C3277 063E67E9",
+        "GEN": 1,
+        "NAME": "POLIWHIRL",
+        "PK_ID": 61,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "8DC834CF BFECCA56",
+        "GEN": 1,
+        "NAME": "POLIWRATH",
+        "PK_ID": 62,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": "FIGHTING"
+    },
+    {
+        "CODE": "5738CFE5 515C61CF",
+        "GEN": 1,
+        "NAME": "ABRA",
+        "PK_ID": 63,
+        "REGION": "KANTO",
+        "TYPE_A": "PSYCHIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "67CA1286 0E3A5D83",
+        "GEN": 1,
+        "NAME": "KADABRA",
+        "PK_ID": 64,
+        "REGION": "KANTO",
+        "TYPE_A": "PSYCHIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "C91954D9 68AAD246",
+        "GEN": 1,
+        "NAME": "ALAKAZAM",
+        "PK_ID": 65,
+        "REGION": "KANTO",
+        "TYPE_A": "PSYCHIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "8AD2C8BB EB3D7A39",
+        "GEN": 1,
+        "NAME": "MACHOP",
+        "PK_ID": 66,
+        "REGION": "KANTO",
+        "TYPE_A": "FIGHTING",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "95EFD5EA DD857E98",
+        "GEN": 1,
+        "NAME": "MACHOKE",
+        "PK_ID": 67,
+        "REGION": "KANTO",
+        "TYPE_A": "FIGHTING",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "3BF5B7C4 061AAA45",
+        "GEN": 1,
+        "NAME": "MACHAMP",
+        "PK_ID": 68,
+        "REGION": "KANTO",
+        "TYPE_A": "FIGHTING",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "CF2E3B09 3B30426E",
+        "GEN": 1,
+        "NAME": "BELLSPROUT",
+        "PK_ID": 69,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "0030C455 4F43BB12",
+        "GEN": 1,
+        "NAME": "WEEPINBELL",
+        "PK_ID": 70,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "1DF3B8CA DC70EC58",
+        "GEN": 1,
+        "NAME": "VICTREEBEL",
+        "PK_ID": 71,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "65C4E9C5 24CA1894",
+        "GEN": 1,
+        "NAME": "TENTACOOL",
+        "PK_ID": 72,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "51DDE51A 00DE2CE3",
+        "GEN": 1,
+        "NAME": "TENTACRUEL",
+        "PK_ID": 73,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "399F7170 D519951E",
+        "GEN": 1,
+        "NAME": "GEODUDE",
+        "PK_ID": 74,
+        "REGION": "KANTO",
+        "TYPE_A": "ROCK",
+        "TYPE_B": "GROUND"
+    },
+    {
+        "CODE": "DDF655E3 9BDEE49C",
+        "GEN": 1,
+        "NAME": "GRAVELER",
+        "PK_ID": 75,
+        "REGION": "KANTO",
+        "TYPE_A": "ROCK",
+        "TYPE_B": "GROUND"
+    },
+    {
+        "CODE": "103F567C 2F1A9043",
+        "GEN": 1,
+        "NAME": "GOLEM",
+        "PK_ID": 76,
+        "REGION": "KANTO",
+        "TYPE_A": "ROCK",
+        "TYPE_B": "GROUND"
+    },
+    {
+        "CODE": "877A6953 8F6209F2",
+        "GEN": 1,
+        "NAME": "PONYTA",
+        "PK_ID": 77,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "195BAD3F C840CA28",
+        "GEN": 1,
+        "NAME": "RAPIDASH",
+        "PK_ID": 78,
+        "REGION": "KANTO",
+        "TYPE_A": "FIRE",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "4CEC5478 ACBC593C",
+        "GEN": 1,
+        "NAME": "SLOWPOKE",
+        "PK_ID": 79,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": "PSYCHIC"
+    },
+    {
+        "CODE": "FE7C44DB 7672B1D8",
+        "GEN": 1,
+        "NAME": "SLOWBRO",
+        "PK_ID": 80,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": "PSYCHIC"
+    },
+    {
+        "CODE": "3C17AEA9 5DC9D705",
+        "GEN": 1,
+        "NAME": "MAGNEMITE",
+        "PK_ID": 81,
+        "REGION": "KANTO",
+        "TYPE_A": "ELECTRIC",
+        "TYPE_B": "STEEL"
+    },
+    {
+        "CODE": "B8BD13C5 E3E7D9B3",
+        "GEN": 1,
+        "NAME": "MAGNETON",
+        "PK_ID": 82,
+        "REGION": "KANTO",
+        "TYPE_A": "ELECTRIC",
+        "TYPE_B": "STEEL"
+    },
+    {
+        "CODE": "9121060C 74B908E0",
+        "GEN": 1,
+        "NAME": "FARFETCHD",
+        "PK_ID": 83,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "920BE3C7 3E00359C",
+        "GEN": 1,
+        "NAME": "DODUO",
+        "PK_ID": 84,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "02258041 19ABFE29",
+        "GEN": 1,
+        "NAME": "DODRIO",
+        "PK_ID": 85,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": "FLYING"
+    },
+    {
+        "CODE": "8EC19A12 FD47B55F",
+        "GEN": 1,
+        "NAME": "SEEL",
+        "PK_ID": 86,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "E18D1069 1053E30C",
+        "GEN": 1,
+        "NAME": "DEWGONG",
+        "PK_ID": 87,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": "ICE"
+    },
+    {
+        "CODE": "EB7F9C3F DB3192F5",
+        "GEN": 1,
+        "NAME": "GRIMER",
+        "PK_ID": 88,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "729160A9 F8F73577",
+        "GEN": 1,
+        "NAME": "MUK",
+        "PK_ID": 89,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "92A2030E 24F19E86",
+        "GEN": 1,
+        "NAME": "SHELLDER",
+        "PK_ID": 90,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "FB078533 1A99C72A",
+        "GEN": 1,
+        "NAME": "CLOYSTER",
+        "PK_ID": 91,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": "ICE"
+    },
+    {
+        "CODE": "99B8A848 91759EFF",
+        "GEN": 1,
+        "NAME": "GASTLY",
+        "PK_ID": 92,
+        "REGION": "KANTO",
+        "TYPE_A": "GHOST",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "7F14537B 6C00E975",
+        "GEN": 1,
+        "NAME": "HAUNTER",
+        "PK_ID": 93,
+        "REGION": "KANTO",
+        "TYPE_A": "GHOST",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "BA9A9758 4221EBF4",
+        "GEN": 1,
+        "NAME": "GENGAR",
+        "PK_ID": 94,
+        "REGION": "KANTO",
+        "TYPE_A": "GHOST",
+        "TYPE_B": "POISON"
+    },
+    {
+        "CODE": "54D9A0DB 68FC768F",
+        "GEN": 1,
+        "NAME": "ONIX",
+        "PK_ID": 95,
+        "REGION": "KANTO",
+        "TYPE_A": "ROCK",
+        "TYPE_B": "GROUND"
+    },
+    {
+        "CODE": "C5C4BBBB 55B1B77F",
+        "GEN": 1,
+        "NAME": "DROWZEE",
+        "PK_ID": 96,
+        "REGION": "KANTO",
+        "TYPE_A": "PSYCHIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "F4BB6321 8E9265DB",
+        "GEN": 1,
+        "NAME": "HYPNO",
+        "PK_ID": 97,
+        "REGION": "KANTO",
+        "TYPE_A": "PSYCHIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "D83FACC2 7D31E557",
+        "GEN": 1,
+        "NAME": "KRABBY",
+        "PK_ID": 98,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "FF0F431F 400EF220",
+        "GEN": 1,
+        "NAME": "KINGLER",
+        "PK_ID": 99,
+        "REGION": "KANTO",
+        "TYPE_A": "WATER",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "ABD2C0C0 FBC68A93",
+        "GEN": 1,
+        "NAME": "VOLTORB",
+        "PK_ID": 100,
+        "REGION": "KANTO",
+        "TYPE_A": "ELECTRIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "0C2333CD 141730A7",
+        "GEN": 1,
+        "NAME": "ELECTRODE",
+        "PK_ID": 101,
+        "REGION": "KANTO",
+        "TYPE_A": "ELECTRIC",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "8D2F9E72 8719250B",
+        "GEN": 1,
+        "NAME": "EXEGGCUTE",
+        "PK_ID": 102,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "PYSCHIC"
+    },
+    {
+        "CODE": "744AF614 12D8281B",
+        "GEN": 1,
+        "NAME": "EXEGGUTOR",
+        "PK_ID": 103,
+        "REGION": "KANTO",
+        "TYPE_A": "GRASS",
+        "TYPE_B": "DRAGON"
+    },
+    {
+        "CODE": "D9E3884F 37500E3F",
+        "GEN": 1,
+        "NAME": "CUBONE",
+        "PK_ID": 104,
+        "REGION": "KANTO",
+        "TYPE_A": "GROUND",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "CB4A8BD1 1D028DA2",
+        "GEN": 1,
+        "NAME": "MAROWAK",
+        "PK_ID": 105,
+        "REGION": "KANTO",
+        "TYPE_A": "GROUND",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "9EDB950D 454533E5",
+        "GEN": 1,
+        "NAME": "HITMONLEE",
+        "PK_ID": 106,
+        "REGION": "KANTO",
+        "TYPE_A": "FIGHTING",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "3535FA3A EBECD355",
+        "GEN": 1,
+        "NAME": "HITMONCHAN",
+        "PK_ID": 107,
+        "REGION": "KANTO",
+        "TYPE_A": "FIGHTING",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "F582757C 16122B78",
+        "GEN": 1,
+        "NAME": "LICKITUNG",
+        "PK_ID": 108,
+        "REGION": "KANTO",
+        "TYPE_A": "NORMAL",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "BF93F87F BC1AB791",
+        "GEN": 1,
+        "NAME": "KOFFING",
+        "PK_ID": 109,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
+    },
+    {
+        "CODE": "D966DA15 88BBB73A",
+        "GEN": 1,
+        "NAME": "WEEZING",
+        "PK_ID": 110,
+        "REGION": "KANTO",
+        "TYPE_A": "POISON",
+        "TYPE_B": null
     }
 ]
