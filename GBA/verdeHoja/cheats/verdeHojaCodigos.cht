@@ -562,10 +562,6 @@
   <cheat type="cb" name="Baya Enigma" enabled="false">
     <code>82025840 00AF</code>
   </cheat>
-<!-- Objetos Clave -->
-  <cheat type="cb" name="" enabled="false">
-    <code></code>
-  </cheat>
 <!-- Miscellaneous Items -->
   <cheat type="cb" name="Cuerda Huida" enabled="false">
     <code>82025840 0055</code>
